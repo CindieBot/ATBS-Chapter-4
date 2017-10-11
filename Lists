@@ -1,0 +1,5 @@
+[1, 2, 3]
+#List Value = all data inside the brackets, not just one variable.
+#Items = each item inside a list value
+#Coma-delimited = each ittem is seperated by a comma
+spam = [1, 2, 3]   #spam variable has one list value, which has 3 items.
